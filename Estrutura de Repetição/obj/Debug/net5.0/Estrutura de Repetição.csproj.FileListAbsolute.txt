@@ -1,0 +1,16 @@
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.exe
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.deps.json
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.runtimeconfig.json
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.runtimeconfig.dev.json
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.dll
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\ref\Estrutura de Repetição.dll
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\bin\Debug\net5.0\Estrutura de Repetição.pdb
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.csproj.AssemblyReference.cache
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.AssemblyInfo.cs
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.dll
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\ref\Estrutura de Repetição.dll
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.pdb
+C:\Users\renat\source\repos\Estrutura de Repetição\Estrutura de Repetição\obj\Debug\net5.0\Estrutura de Repetição.genruntimeconfig.cache
